@@ -1,0 +1,1 @@
+I developed a Simple Array Transmission project using the CR0708 PLC, where data arrays were transmitted and received over two separate communication channels. This foundational logic was later extended and integrated into real-time command exchange between the PLC and HMI, enabling effective motor control in subsequent automation projects.
