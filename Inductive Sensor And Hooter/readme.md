@@ -1,0 +1,1 @@
+In this project, an inductive proximity sensor was used to detect the presence of metallic objects. When a metal object is detected within the sensor’s range, it sends a signal to the CR0708 PLC, which then activates a DC hooter as an alert mechanism. This setup demonstrates a basic industrial application of object detection and response using sensors and actuators.
